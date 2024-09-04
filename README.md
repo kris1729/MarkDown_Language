@@ -1,2 +1,1 @@
-# JsBasic
-Javascripts learning
+# JS LEARNING FROM BSIC To ADVANCE
